@@ -1,5 +1,1 @@
-Kuber
-Kadhir
-Balaji
-Hariharan
-Suganya
+This is the 1st file, i was created in git 
